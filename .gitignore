@@ -10,4 +10,4 @@ pyvenv.cfg
 .vscode/
 
 # ignore csv files due to large filesize
-*.csv
+#*.csv
