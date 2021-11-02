@@ -1,0 +1,13 @@
+# ignore virtual environment
+bin/
+lib/
+pyvenv.cfg
+
+# ignore python compiled files
+*.pyc
+
+# ignore vscode files
+.vscode/
+
+# ignore csv files due to large filesize
+*.csv
