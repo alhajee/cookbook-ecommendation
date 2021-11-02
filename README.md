@@ -1,1 +1,1 @@
-# cookbook-ecommendation
+# cookbook-recommendation
